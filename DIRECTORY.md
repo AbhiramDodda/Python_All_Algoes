@@ -831,6 +831,7 @@
   * [Convolution Neural Network](neural_network/convolution_neural_network.py)
   * [Input Data](neural_network/input_data.py)
   * [Simple Neural Network](neural_network/simple_neural_network.py)
+  * [Transformer](neural_network/transformer.py)
   * [Two Hidden Layers Neural Network](neural_network/two_hidden_layers_neural_network.py)
 
 ## Other
